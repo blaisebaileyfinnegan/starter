@@ -9,11 +9,27 @@
     - git
     - zsh
     - vim
+    - tmux
     - the_silver_searcher
     - ctags
     - reattach-to-user-namespace
     - tmux
+    - nodejs
+    - scala
     cask_packages:
     - font-inconsolata-for-powerline
     - iterm2
     - macvim
+    - steam
+    - sizeup
+    - atom
+    - java
+    - intellij-idea
+    - webstorm
+    - vagrant
+    - vlc
+    - transmission
+    - filezilla
+    - macdown
+    - mplayerx
+    - torbrowser
