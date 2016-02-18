@@ -16,6 +16,8 @@
     - tmux
     - nodejs
     - scala
+    - ruby
+    - gnupg
     cask_packages:
     - font-inconsolata-for-powerline
     - iterm2
