@@ -16,6 +16,7 @@
     - scala
     - ruby
     - gnupg
+    - rabbitmq
     cask_packages:
     - iterm2
     - steam
@@ -32,3 +33,6 @@
     - mplayerx
     - torbrowser
     - font-ubuntu
+    - sizeup
+    - slack
+    - sublime-text
